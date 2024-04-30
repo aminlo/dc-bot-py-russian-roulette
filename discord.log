@@ -1,0 +1,4 @@
+[2024-04-30 13:05:41] [INFO    ] discord.client: logging in using static token
+[2024-04-30 13:05:42] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 4f13c354253c13d346ac9c8919123219).
+[2024-04-30 13:05:56] [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "dawd#" is not found
