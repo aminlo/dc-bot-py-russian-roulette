@@ -7,4 +7,4 @@ Aims:
   - A design
   - Leaderboard / Between each server
     
-WIP!
+WIP, there is no official working vers as of yet.
